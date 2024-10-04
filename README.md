@@ -14,7 +14,6 @@ Data Security Although we do not store your health data, we take your privacy 
 If you have any questions or concerns regarding our privacy practices, feel free to contact us at dcavgapp@gmail.com.
 
 Simplified Chinese:
-
 我们尊重您的隐私，并致力于保护您的个人健康数据。
 
 数据访问
