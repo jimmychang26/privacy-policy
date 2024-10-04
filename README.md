@@ -14,9 +14,11 @@ Data Security Although we do not store your health data, we take your privacy 
 If you have any questions or concerns regarding our privacy practices, feel free to contact us at dcavgapp@gmail.com.
 
 Simplified Chinese:
+
 我们尊重您的隐私，并致力于保护您的个人健康数据。
 
-数据访问\n我们的应用程序通过HealthKit框架与Apple Health集成，以读取某些与健康相关的数据，例如步数和行走距离。这些数据直接从您的设备读取，以在应用程序内提供个性化功能。
+数据访问
+我们的应用程序通过HealthKit框架与Apple Health集成，以读取某些与健康相关的数据，例如步数和行走距离。这些数据直接从您的设备读取，以在应用程序内提供个性化功能。
 
 数据使用
 访问的健康数据仅用于应用程序中的显示，并在您的设备上本地处理。我们不会将这些数据存储或传输到我们的服务器或任何外部方。
