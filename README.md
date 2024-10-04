@@ -1,7 +1,7 @@
 # Currency++ Privacy-Policy
 We respect your privacy and are committed to protecting your personal health data.
 
-Data Access Our app integrates with Apple Health using the HealthKit framework to read certain health-related data, such as steps count and walking distance. This data is read directly from your device to provide personalized features within the app.
+Data Access Our: app integrates with Apple Health using the HealthKit framework to read certain health-related data, such as steps count and walking distance. This data is read directly from your device to provide personalized features within the app.
 
 Data Usage The health data accessed is used solely for display within the app and is processed locally on your device. We do not store or transmit this data to our servers or any external parties.
 
