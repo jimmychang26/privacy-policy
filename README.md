@@ -1,4 +1,4 @@
-# privacy-policy
+# DCAvg Privacy-Policy
 We respect your privacy and are committed to protecting your personal health data.
 
 Data Access Our app integrates with Apple Health using the HealthKit framework to read certain health-related data, such as [list the data types, e.g., step count, heart rate, etc.]. This data is read directly from your device to provide personalized features within the app.
